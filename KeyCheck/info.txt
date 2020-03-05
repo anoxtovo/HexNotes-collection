@@ -1,0 +1,10 @@
+-----------------------------------------------------
+ Project       : KeyCheck_x86
+ Version       : -
+ Platform      : (Build-WIN32)Windows
+ File name     : keyCheck.exe
+ Author        : Thumula Basura Suraweera (AN0XT0V0)
+ Architecture  : x86(32bit)
+-----------------------------------------------------
+
+Hello, There This is my first x86 project for learning 
