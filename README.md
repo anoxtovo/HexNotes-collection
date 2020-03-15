@@ -12,4 +12,4 @@ HexNotes Binaries:
     
     1. KeyCheck
     
-            KeyCheck.exe is a Beginer Level Reverse Challenge. Your Goal is Find Out the Password and slove the Chiper Challenge.
+            KeyCheck.exe is a Beginer Level Reverse Challenge. Your Goal is Find Out the Password and solve the Chiper Challenge.
