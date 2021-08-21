@@ -8,8 +8,12 @@ Hello There, HexNotes was a open repository of some x86 binary project list. I'v
 
 **WARNING: These All Binaries are buggy applications. Use it on your own risk!**
 
-HexNotes Binaries:
+<h3><code><i>HexNotes Binaries: </i></code></h3>
     
     1. KeyCheck
     
             KeyCheck.exe is a Beginer Level Reverse Challenge. Your Goal is Find Out the Password and solve the Chiper Challenge.
+            
+    2. Project bOS
+            
+            The Basic Open-source OS Kernel project.
